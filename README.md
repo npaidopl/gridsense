@@ -135,7 +135,7 @@ The full design decisions, justification of technology selection, benchmarking p
 
 ## Author
 
-Nick Pedoplou
+Nikolaos Paidopoulos
 
 Advanced Data Management
 
